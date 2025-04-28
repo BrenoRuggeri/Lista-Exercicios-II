@@ -1,4 +1,4 @@
-# 🔡 Desafios em C
+# 📚 Lista de Exercícios II
 
 Lista de exercícios de prática para fortalecer conceitos básicos de **entrada e saída de dados**, **operações matemáticas**, **condições** e **decisões** usando a linguagem C.
 
